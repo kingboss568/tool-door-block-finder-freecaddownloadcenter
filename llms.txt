@@ -1,0 +1,45 @@
+Door Block Finder
+
+Door Block Finder is a practical cad studio workspace for project architect teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://doors.freecaddownloadcenter.com/
+- https://doors.freecaddownloadcenter.com/tool/
+- https://doors.freecaddownloadcenter.com/workspace/
+- https://doors.freecaddownloadcenter.com/reports/
+- https://doors.freecaddownloadcenter.com/guides/
+- https://doors.freecaddownloadcenter.com/library/
+- https://doors.freecaddownloadcenter.com/templates/
+- https://doors.freecaddownloadcenter.com/compare/
+- https://doors.freecaddownloadcenter.com/checklists/
+- https://doors.freecaddownloadcenter.com/integrations/
+- https://doors.freecaddownloadcenter.com/settings/
+- https://doors.freecaddownloadcenter.com/plans/
+- https://doors.freecaddownloadcenter.com/faq/
+- https://doors.freecaddownloadcenter.com/privacy/
+- https://doors.freecaddownloadcenter.com/about/
+- https://doors.freecaddownloadcenter.com/guides/preflight-a-dwg-package-1/
+- https://doors.freecaddownloadcenter.com/guides/standardize-a-drawing-set-2/
+- https://doors.freecaddownloadcenter.com/guides/prepare-a-client-handoff-3/
+- https://doors.freecaddownloadcenter.com/guides/audit-a-template-4/
+- https://doors.freecaddownloadcenter.com/guides/compare-block-options-5/
+- https://doors.freecaddownloadcenter.com/guides/document-drawing-assumptions-6/
+- https://doors.freecaddownloadcenter.com/guides/preflight-a-dwg-package-7/
+- https://doors.freecaddownloadcenter.com/guides/standardize-a-drawing-set-8/
+- https://doors.freecaddownloadcenter.com/guides/prepare-a-client-handoff-9/
+- https://doors.freecaddownloadcenter.com/guides/audit-a-template-10/
+- https://doors.freecaddownloadcenter.com/guides/compare-block-options-11/
+- https://doors.freecaddownloadcenter.com/guides/document-drawing-assumptions-12/
+- https://doors.freecaddownloadcenter.com/guides/preflight-a-dwg-package-13/
+- https://doors.freecaddownloadcenter.com/guides/standardize-a-drawing-set-14/
+- https://doors.freecaddownloadcenter.com/guides/prepare-a-client-handoff-15/
+- https://doors.freecaddownloadcenter.com/guides/audit-a-template-16/
+- https://doors.freecaddownloadcenter.com/guides/compare-block-options-17/
+- https://doors.freecaddownloadcenter.com/guides/document-drawing-assumptions-18/
+- https://doors.freecaddownloadcenter.com/guides/preflight-a-dwg-package-19/
+- https://doors.freecaddownloadcenter.com/guides/standardize-a-drawing-set-20/
+- https://doors.freecaddownloadcenter.com/guides/prepare-a-client-handoff-21/
+- https://doors.freecaddownloadcenter.com/guides/audit-a-template-22/
+- https://doors.freecaddownloadcenter.com/guides/compare-block-options-23/
+- https://doors.freecaddownloadcenter.com/guides/document-drawing-assumptions-24/
+- https://doors.freecaddownloadcenter.com/guides/preflight-a-dwg-package-25/
